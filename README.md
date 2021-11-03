@@ -1,2 +1,2 @@
-# pcp-ejercicios
-Ejercicios Python club for physicists
+# PCP-Exercises
+Python club for physicists summer school exercisess
